@@ -1,0 +1,145 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "Citizens' assemblies",
+      "author": "Institute for Government",
+      "publication_date": "2024-03-27",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/citizens-assemblies",
+      "type": "Explainer Article",
+      "geographic_focus": "Global, with focus on UK",
+      "topics": ["Democratic Innovation", "Deliberative Democracy", "Governance"],
+      "summary": "This comprehensive explainer from the Institute for Government details what citizens' assemblies are, how they work, and how they've been used across the world. It explains that citizens' assemblies are broadly representative groups of around 50-150 members of the public chosen by lottery to discuss and make recommendations on specific issues. The article outlines the three core phases of citizens' assemblies (learning, deliberation, and decision making) and provides examples from various countries including the UK, France, Ireland, and Belgium. It also includes data on the average number of participants, meeting days, and costs for different types of deliberative processes."
+    },
+    {
+      "id": 2,
+      "title": "Citizens' assemblies worldwide",
+      "author": "Bürgerrat",
+      "publication_date": "2023",
+      "url": "https://www.buergerrat.de/en/citizens-assemblies/citizens-assemblies-worldwide/",
+      "type": "Directory",
+      "geographic_focus": "Global",
+      "topics": ["Democratic Innovation", "Deliberative Democracy", "Global Governance"],
+      "summary": "This extensive directory provides an overview of citizens' assemblies held around the world in recent years. It categorizes assemblies by region (Global, European Union, National, and State/Local levels) and includes information on assemblies addressing various topics such as climate change, democratic reform, and social policy. The directory covers assemblies from diverse geographic regions including Europe, Americas, Asia, and Australia, making it an invaluable resource for understanding the global spread of this democratic innovation. It also links to the OECD Database of Representative Deliberative Processes and Institutions and the Mini Publics Map for additional information."
+    },
+    {
+      "id": 3,
+      "title": "About citizens' assemblies",
+      "author": "Climate Assembly UK",
+      "publication_date": "2020",
+      "url": "https://www.climateassembly.uk/about/citizens-assemblies/index.html",
+      "type": "Informational Website",
+      "geographic_focus": "UK, with international examples",
+      "topics": ["Climate Change", "Democratic Innovation", "Public Participation"],
+      "summary": "This resource from Climate Assembly UK explains what citizens' assemblies are, how they work, and provides examples of their use in various countries. It describes citizens' assemblies as groups of people brought together to learn about and discuss issues, and reach conclusions about what they think should happen. The page details how participants are selected to reflect the wider population in terms of demographics and sometimes relevant attitudes. It also outlines the history of citizens' assemblies, noting that the first one took place in Canada in 2004, and provides examples from the UK, including assemblies on adult social care, the future of Scotland, and climate change."
+    },
+    {
+      "id": 4,
+      "title": "The Irish abortion referendum: How a Citizens' Assembly helped to break years of political deadlock",
+      "author": "Electoral Reform Society",
+      "publication_date": "2018-05-29",
+      "url": "https://www.electoral-reform.org.uk/the-irish-abortion-referendum-how-a-citizens-assembly-helped-to-break-years-of-political-deadlock/",
+      "type": "Case Study",
+      "geographic_focus": "Ireland",
+      "topics": ["Abortion Rights", "Constitutional Reform", "Deliberative Democracy"],
+      "summary": "This case study examines how the Irish Citizens' Assembly played a crucial role in breaking political deadlock on the highly divisive issue of abortion in Ireland. Established in 2016, the assembly consisted of 99 randomly selected citizens who deliberated on the Eighth Amendment (which banned abortion in almost all circumstances) over five sessions from November 2016 to April 2017. The assembly members overwhelmingly agreed that the constitutional provision was unfit for purpose, with 87% agreeing it should not be retained in full. Their recommendations led to the 2018 referendum in which Irish citizens voted to repeal the Eighth Amendment. The article highlights how this bottom-up citizens' input complemented and enhanced representative democracy, acting as an impetus for constitutional renewal."
+    },
+    {
+      "id": 5,
+      "title": "Lessons from the French Citizens' Climate Convention",
+      "author": "Charles Girard",
+      "publication_date": "2021-07-28",
+      "url": "https://verfassungsblog.de/lessons-from-the-french-citizens-climate-convention/",
+      "type": "Academic Article",
+      "geographic_focus": "France",
+      "topics": ["Climate Change", "Deliberative Democracy", "Policy Making"],
+      "summary": "This academic article analyzes the French Citizens' Climate Convention, which was created in the wake of the 'Yellow Jackets' protests as a possible way out of the political crisis sparked by a fuel tax. The convention consisted of 150 citizens selected through sortition and quota sampling, who deliberated over eight weekends from October 2019 to June 2020, eventually voting on 149 proposals for reducing France's carbon emissions. The article discusses the limited impact of the convention on public policy, with many proposals being abandoned or only partially implemented. It identifies several factors that contributed to this outcome, including ambiguities about the convention's role (advisory vs. binding), the nature of its task, and the basis for its legitimacy. The author draws lessons for the legal regulation and political use of citizens' assemblies."
+    },
+    {
+      "id": 6,
+      "title": "Citizens' Assembly on Electoral Reform",
+      "author": "University of British Columbia",
+      "publication_date": "2004",
+      "url": "https://citizensassembly.arts.ubc.ca/",
+      "type": "Project Website",
+      "geographic_focus": "Canada (British Columbia)",
+      "topics": ["Electoral Reform", "Democratic Innovation", "Voting Systems"],
+      "summary": "This resource documents the Citizens' Assembly on Electoral Reform in British Columbia, Canada, which was an independent, non-partisan assembly of 160 randomly selected British Columbians with a mandate to examine how votes cast in provincial elections translate into seats in the Legislature. After almost 10 months of study, research, debate, 50 public hearings, and 1,603 written submissions, the assembly proposed the BC-STV (British Columbia Single Transferable Vote) electoral system. The website includes the assembly's final report, technical documentation, and information about the referendum held in May 2005 on whether to adopt the proposed system. This case is significant as one of the earliest examples of a citizens' assembly being used to address a complex political issue, and it has influenced the design of subsequent assemblies worldwide."
+    },
+    {
+      "id": 7,
+      "title": "Poznań Citizens' Panel",
+      "author": "Participedia",
+      "publication_date": "2019",
+      "url": "https://participedia.net/case/8237",
+      "type": "Case Study",
+      "geographic_focus": "Poland",
+      "topics": ["Climate Change", "Urban Governance", "Environmental Policy"],
+      "summary": "This case study describes the Poznań Citizens' Panel, which brought together 80 randomly selected residents from across Poznań city between September and November 2019 to address how the city authorities could act to counteract and adapt to climate change. The panel included both educational and deliberative components. During the educational meetings, panelists explored the topic with experts and stakeholders, while the deliberative meetings allowed for in-depth discussion among participants. Recommendations supported by at least 80% of panelists were submitted to the Poznań City Council by the Mayor for implementation. This example illustrates how citizens' assemblies are being used at the local level to address climate challenges in Eastern European contexts."
+    },
+    {
+      "id": 8,
+      "title": "Taiwan's Citizen Judges Act: Part II",
+      "author": "Justin Yi-sheng Shen, Rieko Kage",
+      "publication_date": "2022-10-10",
+      "url": "https://usali.org/usali-perspectives-blog/taiwans-citizen-judges-act-part-2",
+      "type": "Academic Article",
+      "geographic_focus": "Taiwan, Japan, South Korea",
+      "topics": ["Judicial Reform", "Legal Systems", "Democratic Innovation"],
+      "summary": "This article examines Taiwan's 2020 Citizen Judges Act, which provides for professional judges to share their benches and power with lay judges in a subset of criminal cases. The law establishes a mixed court of three professional judges and six citizen judges to try serious offenses. The article places Taiwan's reform in the context of similar developments in East Asia, noting that Japan legislated its lay judge system in 2005 and South Korea legislated its jury system in 2007. It discusses the debate between advocates of the mixed judge system versus those who prefer a pure jury system, with some reformers arguing that the current approach doesn't go far enough in empowering citizens. The article provides valuable insights into how deliberative democratic principles are being applied to judicial systems in East Asia."
+    },
+    {
+      "id": 9,
+      "title": "The Proposed Citizens' Assembly on Australian Climate Change Policy",
+      "author": "Participedia",
+      "publication_date": "2010",
+      "url": "https://participedia.net/case/5106",
+      "type": "Case Study",
+      "geographic_focus": "Australia",
+      "topics": ["Climate Change", "Environmental Policy", "Democratic Innovation"],
+      "summary": "This case study examines the proposed Citizens' Assembly on Climate Change Policy in Australia, which was announced by Prime Minister Julia Gillard in 2010. The assembly was intended to bring together up to 200 citizens to examine evidence on climate change and assess options for reducing pollution, including a proposed Emissions Trading Scheme. The proposal was met with significant criticism from the Australian media and opposition politicians, who argued it undermined the role of parliament. Following the 2010 Federal election, in which Gillard lost her lower house majority, the Citizens' Assembly was abandoned and replaced with a panel of experts. This case illustrates how elite group interests can stifle democratic innovations before they are implemented and highlights the challenges of introducing deliberative democratic processes in polarized political contexts."
+    },
+    {
+      "id": 10,
+      "title": "Citizens' Jury in Chihuahua, Mexico",
+      "author": "Global Citizens' Assembly Network",
+      "publication_date": "2023",
+      "url": "https://glocan.org/wp-content/uploads/2024/01/Technical-Paper-1-2024-Dean-et-al.pdf",
+      "type": "Technical Report",
+      "geographic_focus": "Mexico",
+      "topics": ["Local Governance", "Public Participation", "Democratic Innovation"],
+      "summary": "This technical report includes a case study of a Citizens' Jury in Chihuahua, Mexico, as part of a broader examination of citizen deliberation processes in Latin America. The citizens' assembly in the Mexican state of Chihuahua represents an important example of how deliberative democratic practices are being adapted and implemented in Latin American contexts. The report discusses how these participatory mechanisms are being used to address local governance issues and enhance citizen engagement in policy-making processes. This case adds valuable geographic diversity to our understanding of citizens' assemblies by providing insights from a region that has received less attention in the literature on deliberative democracy compared to Europe and North America."
+    },
+    {
+      "id": 11,
+      "title": "OECD Database of Representative Deliberative Processes and Institutions",
+      "author": "Organisation for Economic Co-operation and Development",
+      "publication_date": "2023",
+      "url": "https://www.oecd.org/gov/open-government/innovative-citizen-participation-new-democratic-institutions-catching-the-deliberative-wave-highlights.pdf",
+      "type": "Database",
+      "geographic_focus": "Global",
+      "topics": ["Deliberative Democracy", "Governance", "Public Participation"],
+      "summary": "The OECD Database of Representative Deliberative Processes and Institutions is a comprehensive resource that documents over 320 citizens' assemblies and juries held since 1986 across local, regional, and national levels worldwide. The database provides valuable comparative data on different types of deliberative processes, including the average number of participants, meeting days, duration, and costs. It covers citizens' assemblies in numerous countries including Austria, Belgium, Canada, Denmark, France, Germany, Ireland, Luxembourg, Montenegro, and the UK. This resource is essential for researchers, policymakers, and practitioners interested in understanding the global landscape of deliberative democracy and drawing lessons from diverse experiences with citizens' assemblies."
+    },
+    {
+      "id": 12,
+      "title": "Climate Assembly UK: The Path to Net Zero",
+      "author": "UK Parliament",
+      "publication_date": "2020",
+      "url": "https://www.climateassembly.uk/",
+      "type": "Government Report",
+      "geographic_focus": "United Kingdom",
+      "topics": ["Climate Change", "Environmental Policy", "Energy Transition"],
+      "summary": "Climate Assembly UK was commissioned by six select committees of the UK Parliament to understand public preferences on how the UK should meet its legally binding target of net zero emissions by 2050. The assembly brought together 108 people from all walks of life to learn about, discuss, and make recommendations on climate change. Meeting over six weekends between January and May 2020, the assembly members considered a range of topics including how we travel, what we buy, what we eat and how we use the land, what we use to power our homes, and greenhouse gas removal. Their final report, published in September 2020, contains detailed recommendations across these areas and emphasizes the importance of education, fairness, freedom and choice, and strong leadership from government in the transition to net zero."
+    },
+    {
+      "id": 13,
+      "title": "Ireland's Citizens' Assembly 2016-2018",
+      "author": "The Citizens' Assembly",
+      "publication_date": "2018",
+      "url": "https://2016-2018.citizensassembly.ie/en/",
+      "type": "Government Website",
+      "geographic_focus": "Ireland",
+      "topics": ["Constitutional Reform", "Abortion", "Aging Population", "Climate Change"],
+      "topics": ["Constitutional Reform", "Abortion", "Aging Population", "Climate Change"],
+      "summary": "Ireland's Citizens' Assembly 2016-2018 was a body comprising a Chairperson and 99 citizens randomly selected to be broadly representative of the Irish electorate. It was established by resolution of both Houses of the Oireachtas (Irish Parliament) to consider five specific topics: the Eighth Amendment of the Constitution (on abortion), challenges and opportunities of an aging population, fixed term parliaments, referendum procedures, and how the state can make Ireland a leader in tackling climate change. The assembly's work on the Eighth Amendment was particularly significant, leading to a national referendum in 2018 that resulted in the legalization of abortion in Ireland. This case demonstrates how citizens' assemblies can effectively address divisive social<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
